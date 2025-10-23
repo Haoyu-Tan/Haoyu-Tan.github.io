@@ -3,11 +3,17 @@ main:
   - title: "Home"
     url: /
 
-  - title: "News"
-    url: /#news
+  # - title: "News"
+  #   url: /#news
 
   - title: "Publications"
     url: /#publications
+  
+  - title: "Services"
+    url: /#professional-services
+
+  #- title: "Projects"
+  #  url: /#other-projects
 
   # - title: "Publications"
   #   url: /publications/
