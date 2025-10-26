@@ -22,7 +22,7 @@ github: [metadata]
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_7754.JPG"
+  avatar           : "IMG_7753.JPG"
   name             : "Haoyu Tan"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Ph.D. Student"
@@ -280,6 +280,7 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+custom_css: assets/css/custom.css
 
 
 # Outputting

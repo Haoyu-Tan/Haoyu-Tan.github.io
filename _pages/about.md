@@ -28,7 +28,6 @@ My research interests focus on addressing challenges and enhacing user interacti
 
 Ville Cantory, Darya Biparva, **Haoyu Tan**, Tongyu Nie, John Schroeder, Ruofei Du, Victoria Interrante, and Piotr Didyk. 2025. Enhancing Foveated Rendering with Weighted Reservoir Sampling. In The 18th ACM SIGGRAPH Conference on Motion, Interaction, and Games (MIG ’25), December 03–05, 2025, Zurich, Switzerland. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3769047.3769058.
 <a href="https://arxiv.org/abs/2510.03964" style="font-weight: bold;text-decoration: none;">`arXiv`</a>
-
 <br>
 
 
@@ -47,8 +46,101 @@ Student Volunteer:
 <br>
 IEEE VR: 2024
 
-<!--[Other Projects](#other-projects)
-====== -->
+[Other Projects](#other-projects)
+======
+
+<style>
+  /* namespaced to avoid clashing with the theme */
+  .ap-projects { max-width: 1100px; margin: 0 auto 2rem auto; }
+  .ap-projects h1 { margin-bottom: 1rem; }
+
+  .ap-project {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 1.25rem;
+    align-items: start;
+    margin: 1.75rem 0 2rem 0;
+  }
+
+  .ap-project .ap-thumb {
+    width: 100%;
+    max-width: 180px;
+  }
+  .ap-project .ap-thumb img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.08);
+  }
+
+  .ap-project h2 {
+    margin: 0 0 .35rem 0;
+    font-size: 1.35rem;
+    font-weight: 700;
+  }
+
+  .ap-project .ap-desc { margin: 0; line-height: 1.65; }
+  .ap-project .ap-links { margin: .35rem 0 0 0; }
+  .ap-project .ap-links a {
+    text-decoration: none;
+    font-weight: 600;
+    margin-right: .6rem;
+    white-space: nowrap;
+  }
+
+  .ap-project .plain-link {   background-color: #f8f8f8;
+  border-radius: 3px;
+  padding: 0.2em 0.4em;
+  font-family: monospace;
+  font-size: 0.9em;}
+
+  /* mobile */
+  @media (max-width: 640px) {
+    .ap-project { grid-template-columns: 1fr; }
+    .ap-project .ap-thumb { max-width: 100%; }
+  }
+</style>
+
+<section class="ap-projects">
+  <span style="font-style: italic;">*This section shows selective none-research projects I did in the past</span>
+  <br>
+  <br>
+  <!-- Project 1 -->
+  <article class="ap-project">
+    <div class="ap-thumb">
+      <!-- replace with your image path -->
+      <img src="/images/WIMHome.png" alt="A 3D interaction project in VR">
+    </div>
+    <div class="ap-body">
+      <h2>World in Miniature Home Decoration</h2>
+      <p class="ap-desc">
+        This is a VR application called World in Miniature Home Decoration for the Meta Quest. It allows users to easily and conveniently manipulate furniture within one or multiple rooms. To achieve this, we combined techniques such as an adaptive version Bubble Cursor, World in Miniature, and Avatar Manipulation.
+        <a href="https://github.com/Haoyu-Tan/WIMHome" style="font-weight: bold;text-decoration: none;" ><code>source</code></a>
+        <a href="https://youtu.be/mz_4HhC8xgQ" style="font-weight: bold;text-decoration: none;" ><code>video</code></a>
+      </p>
+      
+    </div>
+  </article>
+
+  <!-- Project 2 -->
+  <article class="ap-project">
+    <div class="ap-thumb">
+      <img src="/images/SnowGlobe.png" alt="Nurse training VR screenshot">
+    </div>
+    <div class="ap-body">
+      <h2>Snow Globe Simulation</h2>
+      <p class="ap-desc">
+        This is a physical simulation project that simulates a Christmas snow globe. Enjoy the Christmas  holiday vibe! 
+        <a href="https://github.com/Haoyu-Tan/SnowGlobeSimulation" style="font-weight: bold;text-decoration: none;"><code>source</code></a>
+        <a href="https://youtu.be/4-0VpZWncjQ" style="font-weight: bold;text-decoration: none;"><code>video</code></a>
+      </p>
+    </div>
+  </article>
+
+  <!-- Duplicate <article> blocks for more projects -->
+</section>
+
 
 
 
