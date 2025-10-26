@@ -8,9 +8,9 @@ redirect_from:
 ---
 [](#nothing)
 ======
-Hi! I am a **third-year Ph.D. student** in the [**Department of Computer Science and Engineering**](https://cse.umn.edu/cs) at [**University of Minnesota, Twin Cities**](https://twin-cities.umn.edu/) **(UMN)**. I am grateful to be co-advised by <a href="https://www-users.cse.umn.edu/~interran/" style="color: #c98f14;font-weight: bold;">Dr. Victoria Interrante</a> and <a href="https://cse.umn.edu/cs/evan-suma-rosenberg" style="color: #c98f14;font-weight: bold;">Dr. Evan Suma Rosenberg</a>. 
+Hi! I am a **third-year Ph.D. student** in the <a href="https://cse.umn.edu/cs" style="color: #7a0019;font-weight: bold;" target="_blank" rel="noopener noreferrer"> **Department of Computer Science and Engineering**</a> at <a href="https://twin-cities.umn.edu/" style="color: #7a0019;font-weight: bold;" target="_blank" rel="noopener noreferrer"> **University of Minnesota, Twin Cities** </a>. I am grateful to be co-advised by <a href="https://www-users.cse.umn.edu/~interran/" style="color: #c98f14;font-weight: bold;" target="_blank" rel="noopener noreferrer">Dr. Victoria Interrante</a> and <a href="https://cse.umn.edu/cs/evan-suma-rosenberg" style="color: #c98f14;font-weight: bold;" target="_blank" rel="noopener noreferrer">Dr. Evan Suma Rosenberg</a>. 
 
-Before enrolling in the Ph.D. program at UMN, I was in the **M.Sc.** program in [**Computer Science**](https://cse.umn.edu/cs) at UMN, and I received my **B.Sc.** in [**Computer Science**](https://www.cs.stonybrook.edu/) at [**Stony Brook University**](https://www.stonybrook.edu/). 
+Before enrolling in the Ph.D. program at UMN, I was in the **M.Sc.** program in <a href="https://cse.umn.edu/cs" style="color: #7a0019;font-weight: bold;" target="_blank" rel="noopener noreferrer">**Computer Science**</a> at UMN, and I received my **B.Sc.** in <a href="https://www.cs.stonybrook.edu/" style="color: #990000;font-weight: bold;" target="_blank" rel="noopener noreferrer">**Computer Science**</a> at <a href="https://www.stonybrook.edu/" style="color: #990000;font-weight: bold;" target="_blank" rel="noopener noreferrer">**Stony Brook University**</a>. 
 
 My research interests focus on addressing challenges and enhacing user interaction experience in **virtual reality (VR) and augmented reality(AR)**. While my current research projects focus on adding post-processing visual effects to mitigate cybersickness, a collection of negative symptoms experienced by users when using virtual reality systems, I am also interested in integrating artificial intelligence, such as GPT, into AR/VR system.
 
@@ -24,10 +24,10 @@ My research interests focus on addressing challenges and enhacing user interacti
 <br>
 <br>
 **Haoyu Tan**, Tongyu Nie, Evan Suma Rosenberg, "Invisible Mesh: Effects of X-Ray Vision Metaphors on Depth Perception in Optical-See-Through Augmented Reality," 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR), Orlando, FL, USA, 2024, pp. 376-386, doi: 10.1109/VR58804.2024.00059. 
-<a href="https://ieeexplore.ieee.org/abstract/document/10494191" style="font-weight: bold;text-decoration: none;">`IEEE VR`</a> 
+<a href="https://ieeexplore.ieee.org/abstract/document/10494191" style="font-weight: bold;text-decoration: none;" target="_blank" rel="noopener noreferrer">`IEEE VR`</a> 
 
 Ville Cantory, Darya Biparva, **Haoyu Tan**, Tongyu Nie, John Schroeder, Ruofei Du, Victoria Interrante, and Piotr Didyk. 2025. Enhancing Foveated Rendering with Weighted Reservoir Sampling. In The 18th ACM SIGGRAPH Conference on Motion, Interaction, and Games (MIG ’25), December 03–05, 2025, Zurich, Switzerland. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3769047.3769058.
-<a href="https://arxiv.org/abs/2510.03964" style="font-weight: bold;text-decoration: none;">`arXiv`</a>
+<a href="https://arxiv.org/abs/2510.03964" style="font-weight: bold;text-decoration: none;" target="_blank" rel="noopener noreferrer">`arXiv`</a>
 <br>
 
 
@@ -116,8 +116,8 @@ IEEE VR: 2024
       <h2>World in Miniature Home Decoration</h2>
       <p class="ap-desc">
         This is a VR application called World in Miniature Home Decoration for the Meta Quest. It allows users to easily and conveniently manipulate furniture within one or multiple rooms. To achieve this, we combined techniques such as an adaptive version Bubble Cursor, World in Miniature, and Avatar Manipulation.
-        <a href="https://github.com/Haoyu-Tan/WIMHome" style="font-weight: bold;text-decoration: none;" ><code>source</code></a>
-        <a href="https://youtu.be/mz_4HhC8xgQ" style="font-weight: bold;text-decoration: none;" ><code>video</code></a>
+        <a href="https://github.com/Haoyu-Tan/WIMHome" style="font-weight: bold;text-decoration: none;" target="_blank" rel="noopener noreferrer"><code>source</code></a>
+        <a href="https://youtu.be/mz_4HhC8xgQ" style="font-weight: bold;text-decoration: none;" target="_blank" rel="noopener noreferrer"><code>video</code></a>
       </p>
       
     </div>
@@ -132,8 +132,8 @@ IEEE VR: 2024
       <h2>Snow Globe Simulation</h2>
       <p class="ap-desc">
         This is a physical simulation project that simulates a Christmas snow globe. Enjoy the Christmas  holiday vibe! 
-        <a href="https://github.com/Haoyu-Tan/SnowGlobeSimulation" style="font-weight: bold;text-decoration: none;"><code>source</code></a>
-        <a href="https://youtu.be/4-0VpZWncjQ" style="font-weight: bold;text-decoration: none;"><code>video</code></a>
+        <a href="https://github.com/Haoyu-Tan/SnowGlobeSimulation" style="font-weight: bold;text-decoration: none;" target="_blank" rel="noopener noreferrer"><code>source</code></a>
+        <a href="https://youtu.be/4-0VpZWncjQ" style="font-weight: bold;text-decoration: none;" target="_blank" rel="noopener noreferrer"><code>video</code></a>
       </p>
     </div>
   </article>
